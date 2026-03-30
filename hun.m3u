@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-logo="https://onlinestream.live/logos/6141.png" group-title="TV",RTL Klub
+https://cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM
+
+#EXTINF:-1 tvg-id="TV2.hu" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" group-title="TV",TV2
+https://cdn.mediaklikk.org:443/tv2/00wMyEjM4UTM
+
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-logo="https://onlinestream.live/logos/6141.png" group-title="TV",Izaura TV
+http://78.109.104.240:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-id="Radio1" group-title="Radio",Radio 1 (YouTube)
+https://www.youtube.com/watch?v=I8dnZoF1nOE
+
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="Hirek",Euronews Hungarian (YouTube)
+https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
